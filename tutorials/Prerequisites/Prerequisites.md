@@ -1,5 +1,5 @@
 ---
-title:Prerequisites
+title: Daria_Prerequisites
 description: Develop a sample client application that embeds an SAP Analytics Cloud story and configure the OAuth two-legged flow to provide access to the API.
 auto_validation: true
 primary_tag: products>sap-cloud-platform-connectivity
