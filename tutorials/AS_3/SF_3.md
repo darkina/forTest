@@ -1,7 +1,7 @@
 ---
 title: SF_333
 description: Links, tips, tricks and more for getting started with the SAP HANA, express edition
-primary_tag: products>sap-hana\,-express-edition
+primary_tag: products>sap-cloud-platform-sdk-for-android
 tags: [  tutorial>how-to, tutorial>beginner, tutorial>intermediate, products>sap-hana, products>sap-hana\,-express-edition  ]
 time: 66
 
