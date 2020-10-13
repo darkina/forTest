@@ -105,7 +105,7 @@ service CatalogService {
  - **Don't forget to save your files!**  If a file name has a * next to it, the file isn't saved.  
 
  ---
-
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 2: ](All 3 options, all with code snippets and Done button)]
