@@ -284,6 +284,7 @@ Before you test the entire flow, remember to set the browser to accept cookies f
 ![Successful Results](MasterDetail.png)
 
 [VALIDATE_1]
+[DONE]
 
 [ACCORDION-END]
 
