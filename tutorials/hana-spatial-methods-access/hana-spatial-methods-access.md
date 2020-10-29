@@ -1,5 +1,5 @@
 ---
-title: Access methods
+title: Daria Access methods
 description: Spatial access methods help you to retrieve properties of geometries
 auto_validation: true
 time: 15
