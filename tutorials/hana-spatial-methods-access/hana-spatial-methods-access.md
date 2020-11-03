@@ -104,6 +104,7 @@ group by "SHAPE".ST_GeometryType();
 This query now produced 3 different collections. Each of them contains only the same geometry types thanks to `GROUP BY` statement.
 
 You will learn more about different kinds of spatial aggregations in a separate tutorial.
+
 [DONE]
 [ACCORDION-END]
 
