@@ -267,7 +267,6 @@ In this exercise, we shall change the __Error End Event__ to __Escalation End Ev
 
 
 [VALIDATE_1]
-
 [ACCORDION-END]
 
 ---
