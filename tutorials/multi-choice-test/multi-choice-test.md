@@ -1,5 +1,5 @@
 ---
-title: Multiple Choice And Rule Update Test Tutorial DDDD
+title: Multiple Choice And Rule Update Test Tutorial ***
 description: Handle the message execution in case of errors.
 auto_validation: true
 time: 15
@@ -267,6 +267,7 @@ In this exercise, we shall change the __Error End Event__ to __Escalation End Ev
 
 
 [VALIDATE_1]
+
 [ACCORDION-END]
 
 ---
