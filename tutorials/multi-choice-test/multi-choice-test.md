@@ -1,5 +1,5 @@
 ---
-title: Multiple Choice And Rule Update Test Tutorial DD
+title: Multiple Choice And Rule Update Test Tutorial D
 description: Handle the message execution in case of errors.
 auto_validation: true
 time: 15
@@ -266,7 +266,7 @@ In this exercise, we shall change the __Error End Event__ to __Escalation End Ev
     ![Error email](Error email.png)   
 
 
-[VALIDATE_1]
+[DONE]
 [ACCORDION-END]
 
 ---
