@@ -1,5 +1,5 @@
 ---
-title: Multiple Choice And Rule Update Test Tutorial
+title: Multiple Choice And Rule Update Test Tutorial DDD
 description: Handle the message execution in case of errors.
 auto_validation: true
 time: 15
