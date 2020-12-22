@@ -15,8 +15,6 @@ time: 111
 
 Content to be displayed before tab content disregard what tab is selected.
 [Test link](https://localhost:4004/testLink)
-[OPTION BEGIN [1]]
-
 
 [EMBEDDED-VIDEO [](https://www.youtube.com/watch?v=G1IbRujko-A)]
 
@@ -38,9 +36,6 @@ class HelloWorld
 }
 * This source code was highlighted with Source Code Highlighter.
 ```
-[OPTION END]
-
-[OPTION BEGIN [2]]
 
 rkthjitrjhoprtjh
 
@@ -58,9 +53,6 @@ class HelloWorld
 * This source code was highlighted with Source Code Highlighter.
 ```
 
-[OPTION END]
-
-[OPTION BEGIN [3]]
 [Test link](https://localhost:4004/testLink)
 ```c#
 using System;
@@ -76,8 +68,6 @@ class HelloWorld
 * This source code was highlighted with Source Code Highlighter.
 ```
 
-[OPTION END]
-
 Content to be displayed after tab content disregard what tab is selected.
 [DONE]
 [ACCORDION-END]
@@ -85,8 +75,6 @@ Content to be displayed after tab content disregard what tab is selected.
 [ACCORDION-BEGIN [Step 1: ](TWO)]
 
 Content to be displayed before tab content disregard what tab is selected.
-
-[OPTION BEGIN [1]]
 
 Content to be displayed on ‘Windows’ tab.
 
@@ -103,19 +91,9 @@ class HelloWorld
 }
 * This source code was highlighted with Source Code Highlighter.
 ```
-[OPTION END]
-
-[OPTION BEGIN [2]]
-
-t1
-
-[OPTION END]
-
-[OPTION BEGIN [3]]
 
 t2
 
-[OPTION END]
 
 Content to be displayed after tab content disregard what tab is selected.
 [DONE]
@@ -124,9 +102,8 @@ Content to be displayed after tab content disregard what tab is selected.
 
 [ACCORDION-BEGIN [Step 2: ](THREE)] 
 
-Text before all tabs
+Text before all tab
 
-[OPTION BEGIN [2]]
 
 ```c#
 using System;
@@ -141,7 +118,6 @@ class HelloWorld
 }
 * This source code was highlighted with Source Code Highlighter.
 ```
-[OPTION END]
 
 [DONE]
 
