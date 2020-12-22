@@ -11,7 +11,7 @@ time: 111
 
 
 ---
-[ACCORDION-BEGIN [Step 5: ](ONE)]
+[ACCORDION-BEGIN [Step 1:](ONE)]
 
 Content to be displayed before tab content disregard what tab is selected.
 [Test link](https://localhost:4004/testLink)
@@ -69,10 +69,12 @@ class HelloWorld
 ```
 
 Content to be displayed after tab content disregard what tab is selected.
+
 [DONE]
+
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 1: ](TWO)]
+[ACCORDION-BEGIN [Step 2:](TWO)]
 
 Content to be displayed before tab content disregard what tab is selected.
 
@@ -96,11 +98,12 @@ t2
 
 
 Content to be displayed after tab content disregard what tab is selected.
+
 [DONE]
+
 [ACCORDION-END]
 
-
-[ACCORDION-BEGIN [Step 2: ](THREE)] 
+[ACCORDION-BEGIN [Step 3:](THREE)] 
 
 Text before all tab
 
