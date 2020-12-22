@@ -118,6 +118,7 @@ t2
 [OPTION END]
 
 Content to be displayed after tab content disregard what tab is selected.
+[DONE]
 
 [ACCORDION-END]
 
@@ -143,64 +144,6 @@ class HelloWorld
 ```
 [OPTION END]
 
-[OPTION BEGIN [3]]
-
-t3
-
-[OPTION END]
-
-[ACCORDION-END]  
-
-[ACCORDION-BEGIN [Step 3: ](FOUR)]
-
-Content to be displayed before tab content disregard what tab is selected.
-
-[OPTION BEGIN [2]]
-
-Content to be displayed on ‘Windows’ tab.
-
-```c#
-using System;
- 
-class HelloWorld
-{
-  public static int Main()
-  {
-    Console.WriteLine("Hello World2!");
-    return 0;
-  }
-}
-* This source code was highlighted with Source Code Highlighter.
-```
-[OPTION END]
- 
-[ACCORDION-END]  
-
-[ACCORDION-BEGIN [Step 4: ](FIVE)]
-
-[OPTION BEGIN [1]]
-
-tefguywef
-
-[OPTION END]
-
-[OPTION BEGIN [2]]
-
-```c#
-using System;
- 
-class HelloWorld
-{
-  public static int Main()
-  {
-    Console.WriteLine("Hello World2!");
-    return 0;
-  }
-}
-* This source code was highlighted with Source Code Highlighter.
-```
-
-[OPTION END]
-
+[DONE]
 
 [ACCORDION-END]
