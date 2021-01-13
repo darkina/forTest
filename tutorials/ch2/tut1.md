@@ -157,7 +157,7 @@ https://github.com/SAP-samples/teched2019-appspace-hana-cloud
 ![查找合作伙伴](18.png)
 
 
-[VALIDATE_1]
+[DONE]
 [ACCORDION-END]
 
 
