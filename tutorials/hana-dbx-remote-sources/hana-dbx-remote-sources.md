@@ -277,7 +277,7 @@ A benefit of a virtual table is that there is no data movement.  There is only o
 
 Congratulations!   You have now used remote sources to access data running on a different SAP HANA instance and on a SAP HANA Data Lake.
 
-[VALIDATE_1]
+[DONE]
 [ACCORDION-END]
 
 ---
