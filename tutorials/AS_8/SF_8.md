@@ -1,5 +1,5 @@
 ---
-title: DDDaria_SF_8
+title: Daria_SF_8
 description: ADMINTOOL final
 tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
