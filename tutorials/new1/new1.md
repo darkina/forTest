@@ -2,7 +2,7 @@
 title: daria new1
 description: Create a database table in SAP Cloud Platform ABAP Environment and prefill it with data.
 primary_tag: tutorial:product/mobile  
-tags: [  tutorial>beginner, topic>abap-development, products>sap-cloud-platform]
+tags: [  tutorial>beginner, topic>abap-development, products>sap-hana]
 time: 10
 ---
 
