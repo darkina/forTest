@@ -3,7 +3,7 @@ title: Daria_Prerequisites
 description: Develop a sample client application that embeds an SAP Analytics Cloud story and configure the OAuth two-legged flow to provide access to the API.
 auto_validation: true
 primary_tag: tutorial:product/mobile
-tags: [  tutorial>intermediate, topic>cloud, topic>sapui5, topic>security, products>sap-analytics-cloud, products>sap-cloud-platform-connectivity, tutorial>license ]
+tags: [  tutorial>intermediate, topic>cloud, topic>sapui5, topic>security, products>sap-analytics-cloud, products>sap-hana, tutorial>license ]
 time: 60
 author_name: Virat Tiwari
 author_profile: https://github.com/virattiwari7
