@@ -1,5 +1,5 @@
 ---
-title: Daria_SF_8
+title: Daria AS_8
 description: ADMINTOOL final
 tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
@@ -20,36 +20,15 @@ time: 33 min
 
 [ACCORDION-BEGIN [STEP 1](regex1)] 
 [VALIDATE_1] 
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 2](regex)] 
 [VALIDATE_2] 
+[DONE]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 5](rexact-match-precise)] 
+[ACCORDION-BEGIN [STEP 3](rexact-match-precise)] 
 [VALIDATE_5] 
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [STEP 6](regex-begins-with)] 
-[VALIDATE_6] 
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [STEP7](regex-with-id-exact-match)] 
-[VALIDATE_7] 
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [STEP10](regex-begins-with)] 
-[VALIDATE_10] 
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [STEP 8](single-choice rule)] 
-[VALIDATE_8] 
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [STEP 9](multiple-choice rule)] 
-[VALIDATE_9] 
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [STEP 10](multiple-choice rule)] 
 [DONE]
 [ACCORDION-END]
